@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smithaj9&label=Profile%20views&color=0e75b6&style=flat" alt="smithaj9" /> </p>
 
-- 🔭 I’m currently working on **Excel Data Analysis Portfolio**
+- 🔭 I’m currently working on **Data Analysis Portfolio using Excel and SQL**
 
 - 🌱 I’m currently learning **Excel for Data Analysis SQL for Data Analysis Power BI**
 
